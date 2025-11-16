@@ -102,7 +102,7 @@ export default function AscendCloud() {
           </div>
           
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
-            Enterprise Cloud
+            Ascend Cloud
             <span className="block text-transparent bg-clip-text bg-linear-to-r from-blue-400 to-cyan-300">
               Built for Scale
             </span>
